@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Add application styles & imports to this file! */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400);
+
+body {
+  /* font-family: 'Open Sans';
+  font-weight: 300;
+  background-color: #D6E1E5; */
+  padding-top: 82px;
+}

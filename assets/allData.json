@@ -1,0 +1,469 @@
+{
+  "testData": [
+    {
+      "NameTital": "Deepak",
+      "description": "Embracing the modern era, this tech enterprise sets itself apart with steadfast dedication and dependable programs, resonating innovation and advancement.",
+      "imageUrl": "../assets/img/deepak.png",
+      "imageAlt": "Deepak",
+      "postionClint": "Director of wom solution"
+    },
+    {
+      "NameTital": "Suraj",
+      "description": "Keeping stride with contemporary trends, this tech venture excels with its steadfast dedication and reliable endeavors, pioneering innovation and advancement.",
+      "imageUrl": "../assets/img/vypar_log22.png",
+      "imageAlt": "vyaparkranti",
+      "postionClint": "Project Manager of Vyapar Kranti"
+    },
+    {
+      "NameTital": "Kedarnath",
+      "description": "In tune with the modern age, this tech entity distinguishes itself through unwavering commitment and dependable initiatives, driving innovation and progress.",
+      "imageUrl": "../assets/img/naveen.jpg",
+      "imageAlt": "IT Consultations Image",
+      "postionClint": "Director of Luminance Medicare"
+    },
+    {
+      "NameTital": "Naveen kumar",
+      "description": "Adapting seamlessly to the currents of modernity, this technology venture distinguishes itself through unwavering commitment and consistent efforts, driving forward the frontiers of innovation and progress.",
+      "imageUrl": "../assets/img/naveen.png",
+      "imageAlt": "IT Consultations Image",
+      "postionClint": "Manager"
+    }
+  ],
+  "serviceData": [
+    {
+      "title": "IT Consultations",
+      "description": "Expert advice on IT-related matters.",
+      "imageUrl": "../../assets/img/servics/it-const.png",
+      "imageAlt": "IT Consultations Image",
+      "routeKey": "itServiceData"
+    },
+    {
+      "title": "Website Development",
+      "description": "Building professional and responsive websites.",
+      "imageUrl": "../../assets/img/servics/web-img.png",
+      "imageAlt": "Website Development Image",
+      "routeKey": "web-dev"
+    },
+    {
+      "title": "UI/UX Design",
+      "description": "Crafting intuitive and visually appealing user interfaces.",
+      "imageUrl": "../../assets/img/servics/uiux-img.png",
+      "imageAlt": "UI/UX Design Image",
+      "routeKey": "ui-ux"
+    },
+    {
+      "title": "Database",
+      "description": "Database design and management solutions.",
+      "imageUrl": "../../assets/img/servics/db-img.png",
+      "imageAlt": "Database Image",
+      "routeKey": "database"
+    },
+    {
+      "title": "CMS",
+      "description": "Content Management System implementation and customization.",
+      "imageUrl": "../../assets/img/servics/cms-img.png",
+      "imageAlt": "CMS Image",
+      "routeKey": "cms"
+    },
+    {
+      "title": "SEO Service & Digital Marketing Service",
+      "description": "Expertise in various SEO Service.",
+      "imageUrl": "../../assets/img/servics/pl-img.png",
+      "imageAlt": "SEO Service",
+      "routeKey": "seo"
+    },
+    {
+      "title": "Internship",
+      "description": "Consultation and support for different Internship.",
+      "imageUrl": "../../assets/img/servics/os-img.png",
+      "imageAlt": "Internship",
+      "routeKey": "internship"
+    },
+    {
+      "title": "Mobile Development",
+      "description": "Creating mobile applications for iOS and Android.",
+      "imageUrl": "../../assets/img/servics/mob-img.png",
+      "imageAlt": "Mobile Development Image",
+      "routeKey": "mob-dev"
+    },
+    {
+      "title": "Other Services",
+      "description": "Additional services tailored to your needs.",
+      "imageUrl": "../../assets/img/servics/other.png",
+      "imageAlt": "Other Services Image",
+      "routeKey": "other-servics"
+    }
+  ],
+  "servicesDetailsData": {
+    "itServiceData": {
+      "topTitl": "IT Consultations",
+      "imgUrl": "../assets/img/busy-confident-serious-european-young-businessmen-casual-with-laptop-talk-about-work-creating.jpg",
+      "heading": "",
+      "main_img": "../assets/img/it-serivces.jpg",
+      "items": [
+        {
+          "title": "Strategic IT Solutions for Success",
+          "content": "Elevate your business with strategic IT solutions designed to drive success in the digital age. Our expert consultants offer tailored strategies to optimize your technology infrastructure, improve efficiency, and maximize ROI. From cloud integration to cybersecurity, we provide comprehensive solutions that align with your business goals. Partner with us to unlock the full potential of your IT investments and stay ahead in today's competitive landscape. #StrategicIT #BusinessSuccess #TechSolutions"
+        },
+        {
+          "title": "Cybersecurity Excellence: Protecting Your Assets",
+          "content": "Protect your digital assets with industry-leading cybersecurity solutions tailored to your unique needs. Our team of cybersecurity experts offers comprehensive assessments, proactive threat detection, and incident response strategies to mitigate risks and safeguard your business against evolving threats. With a focus on resilience and compliance, we help you build a robust security posture that instills confidence and trust among your stakeholders. Partner with us to fortify your defenses and stay ahead of cyber threats. #Cybersecurity #DataProtection #RiskMitigation"
+        },
+        {
+          "title": "Cloud Optimization: Enhancing Agility",
+          "content": "Unlock the full potential of cloud technology with our optimization strategies designed to drive efficiency and enhance agility. Whether you're migrating to the cloud or optimizing existing infrastructure, our experienced consultants provide tailored solutions that maximize performance, minimize costs, and accelerate innovation. From workload optimization to scalability planning, we help you leverage the power of the cloud to transform your business operations and stay ahead of the competition. Partner with us to embrace the future of IT with confidence. #CloudOptimization #Agility #Innovation"
+        },
+        {
+          "title": "Digital Transformation Roadmap",
+          "content": "Embark on a transformative journey with our digital transformation roadmap tailored to your organization's unique needs. Our seasoned consultants work closely with you to assess current capabilities, identify opportunities, and develop a roadmap for digital innovation. From process optimization to technology integration, we help you embrace change and stay ahead in today's rapidly evolving landscape. With a focus on agility and innovation, we empower you to adapt, thrive, and lead in the digital age. Partner with us to unlock new possibilities and drive sustainable growth. #DigitalTransformation #Innovation #BusinessSuccess"
+        },
+        {
+          "title": "IT Infrastructure Optimization for Growth",
+          "content": "Lay the groundwork for sustainable growth with our IT infrastructure optimization solutions tailored to your business needs. Our expert consultants assess your current infrastructure, identify bottlenecks, and develop strategies to streamline operations, reduce costs, and enhance scalability. Whether you're modernizing legacy systems or embracing emerging technologies, we provide practical solutions that align with your goals and drive measurable results. Partner with us to build a resilient IT foundation that supports your long-term success. #InfrastructureOptimization #Scalability #Efficiency"
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Our IT Consultations offer tailored strategies to optimize your digital infrastructure, enhance cybersecurity, and streamline operations."
+        },
+        {
+          "li_descn": "Partner with us to navigate the complexities of technology, ensuring sustainable growth and competitive advantage."
+        },
+        {
+          "li_descn": "Unlock the full potential of your IT investments with our expert guidance and comprehensive solutions."
+        }
+      ]
+    },
+    "web-dev": {
+      "topTitl": "Website Development",
+      "imgUrl": "../assets/img/web-dev-top.jpg",
+      "heading": "",
+      "main_img": "../assets/img/web-dev.jpg",
+      "items": [
+        {
+          "title": "Custom Website Solutions",
+          "content": "Transform your online presence with our Custom Website Solutions. Crafted to align with your brand identity and business objectives, our designs captivate audiences and drive conversions. Whether it's a sleek portfolio or dynamic e-commerce platform, we bring your vision to life."
+        },
+        {
+          "title": "Responsive Website Design",
+          "content": "Stay ahead with our Responsive Website Design. Ensuring seamless adaptation across devices, our designs prioritize user experience and accessibility, engaging your audience effectively."
+        },
+        {
+          "title": "Dynamic Website Solutions",
+          "content": "Experience accelerated growth with our Dynamic Website Solutions. Interactive experiences drive engagement and conversions, empowering you to thrive in the digital ecosystem."
+        },
+        {
+          "title": "Website Protection Services",
+          "content": "Safeguard your digital presence with our Website Protection Services. Proactive security measures fortify your site against threats, ensuring its safety and integrity."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Website Development is the art of crafting digital experiences that resonate with your audience and drive engagement."
+        },
+        {
+          "li_descn": "In today's digital landscape, Website Development is crucial for establishing your brand's online presence and credibility."
+        },
+        {
+          "li_descn": "Our Website Development services prioritize user experience, functionality, and aesthetic appeal to ensure maximum impact."
+        },
+        {
+          "li_descn": "With expertise in coding languages, design principles, and optimization techniques, we bring your vision to life in the digital realm."
+        }
+      ]
+    },
+    "ui-ux": {
+      "topTitl": "UI/UX Design",
+      "imgUrl": "../assets/img/young-female-website-designer-working-studio-create-application-mobile-phone.jpg",
+      "heading": "",
+      "main_img": "../assets/img/ui_ux.jpg",
+      "items": [
+        {
+          "title": "The Essence of UI/UX Design",
+          "content": "UI/UX Design is the essence of crafting digital experiences that seamlessly blend form and function. It's about understanding user needs, behaviors, and emotions to design interfaces that not only look visually appealing but also deliver exceptional usability. Our approach to UI/UX Design involves a deep dive into user research, wireframing, prototyping, and user testing, ensuring that every interaction is intuitive and delightful for your audience."
+        },
+        {
+          "title": "The Art of User Interface Design",
+          "content": "User Interface (UI) Design is an art form that shapes the visual elements of digital interfaces. It involves creating layouts, typography, color schemes, and interactive elements that enhance user engagement and satisfaction. Our UI Design process focuses on creating intuitive interfaces that guide users seamlessly through their digital journey, leaving a lasting impression and fostering brand loyalty."
+        },
+        {
+          "title": "Crafting Memorable User Experiences",
+          "content": "User Experience (UX) Design is all about crafting memorable experiences that resonate with users long after they interact with your product or service. It involves understanding user goals, pain points, and preferences to design interfaces that meet their needs and exceed their expectations. Our UX Design methodology revolves around empathy, iteration, and continuous improvement, ensuring that every touchpoint adds value and enriches the user's journey."
+        },
+        {
+          "title": "Driving Engagement through UI/UX Innovation",
+          "content": "UI/UX Design innovation is key to driving user engagement and retention in today's competitive digital landscape. It involves pushing boundaries, exploring new technologies, and incorporating user feedback to create experiences that stand out from the crowd. Our team of UI/UX Design experts is committed to pushing the envelope and delivering innovative solutions that captivate audiences, foster brand loyalty, and drive business growth."
+        },
+        {
+          "title": "Elevating Brands with UI/UX Excellence",
+          "content": "UI/UX Excellence is at the core of elevating brands and setting them apart in the digital marketplace. It's about creating cohesive experiences that reflect brand values, evoke emotion, and establish meaningful connections with users. Our UI/UX Design approach is centered around collaboration, creativity, and attention to detail, ensuring that every interaction reflects positively on your brand and reinforces its position as a leader in its industry."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "UI/UX Design is the backbone of intuitive and engaging digital experiences, shaping user interactions and perceptions."
+        },
+        {
+          "li_descn": "In the digital era, UI/UX Design plays a pivotal role in creating seamless and memorable user journeys across various platforms."
+        },
+        {
+          "li_descn": "Our UI/UX Design services focus on user research, prototyping, and usability testing to deliver designs that delight and inspire."
+        },
+        {
+          "li_descn": "With a blend of creativity and technical expertise, we craft UI/UX solutions that elevate brands and drive user engagement to new heights."
+        }
+      ]
+    },
+    "database": {
+      "topTitl": "Database",
+      "imgUrl": "../assets/img/digital-information-travels-through-fiber-optic-cables-through-network-data-servers-glass-panels-server-room-data-center.jpg",
+      "heading": "",
+      "main_img": "../assets/img/db.jpg",
+      "items": [
+        {
+          "title": "Essential Databases",
+          "content": "Databases serve as the backbone of modern data management systems, empowering organizations to store, retrieve, and manage vast amounts of information efficiently. From traditional relational databases to cutting-edge NoSQL solutions, the database landscape continues to evolve, offering diverse options to meet various business needs. Our expertise in database technologies enables us to design, implement, and optimize robust database solutions that drive innovation, enhance scalability, and unlock valuable insights for your organization."
+        },
+        {
+          "title": "Data Architecture Insights",
+          "content": "Data architecture is intricately intertwined with the design and implementation of databases, shaping how data is organized, stored, and accessed within an organization. Our comprehensive approach to data architecture involves assessing your business requirements, defining data models, and selecting appropriate database technologies to support your goals. Whether you require transactional databases for real-time processing or analytical databases for business intelligence, we provide tailored solutions that align with your needs and drive strategic decision-making."
+        },
+        {
+          "title": "Scalable Database Solutions",
+          "content": "Big Data presents both challenges and opportunities for organizations seeking to extract actionable insights from massive datasets. Our database solutions are designed to harness the power of Big Data, enabling you to process, analyze, and derive meaningful insights from diverse data sources. Leveraging distributed computing frameworks and scalable database architectures, we empower you to unlock new possibilities for innovation, optimization, and competitive advantage in today's data-driven landscape."
+        },
+        {
+          "title": "Secure Database Management",
+          "content": "Data security and compliance are paramount considerations in database management, especially in light of evolving regulatory requirements and cybersecurity threats. Our approach to database management prioritizes data protection, encryption, and access control mechanisms to safeguard sensitive information and mitigate risks. We implement industry best practices and adhere to stringent compliance standards, ensuring that your data remains secure, confidential, and compliant with regulatory mandates."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Databases serve as the foundational pillars of modern data ecosystems, enabling organizations to store, retrieve, and manipulate data with efficiency and accuracy."
+        },
+        {
+          "li_descn": "Data architecture intricately weaves together the design, organization, and management of databases, defining how data flows and interacts within an organization's infrastructure."
+        },
+        {
+          "li_descn": "In the era of Big Data, scalable database solutions empower businesses to process, analyze, and derive insights from massive datasets, driving innovation and informed decision-making."
+        }
+      ]
+    },
+    "cms": {
+      "topTitl": "CMS",
+      "imgUrl": "../assets/img/business-man-showing-content-sign-with-hand.jpg",
+      "heading": "",
+      "main_img": "../assets/img/cms.jpg",
+      "items": [
+        {
+          "title": "CMS: Streamlining Customer Relations",
+          "content": "A Customer Management System (CMS) streamlines customer interactions by centralizing data, enabling personalized service and efficient communication."
+        },
+        {
+          "title": "Enhancing Experiences: CMS Solutions' Role",
+          "content": "CMS solutions elevate customer experiences by leveraging data insights for personalized engagement and proactive support."
+        },
+        {
+          "title": "Driving Growth with CMS Strategies",
+          "content": "Effective CMS strategies drive business growth by harnessing analytics, automation, and adaptability to meet evolving customer needs."
+        },
+        {
+          "title": "Security and Trust: CMS Foundations",
+          "content": "CMS solutions prioritize security and compliance, safeguarding customer data and fostering trust through transparency and accountability."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Improved Customer Relationships: By centralizing customer data and enabling personalized interactions, a CMS helps businesses build stronger relationships with customers and enhance customer satisfaction."
+        },
+        {
+          "li_descn": "Increased Efficiency: A CMS streamlines and automates repetitive tasks, such as data entry, lead tracking, and follow-up communications, saving time and resources and allowing employees to focus on more value-added activities."
+        },
+        {
+          "li_descn": "Scalability and Flexibility: A CMS is scalable and flexible, allowing businesses to adapt to changing customer needs, market conditions, and business requirements over time."
+        }
+      ]
+    },
+    "seo": {
+      "topTitl": "SEO Service & Digital Marketing Service",
+      "imgUrl": "../assets/img/seo-search-engine-optimization-marketing-ranking-traffic-website.jpg",
+      "heading": "",
+      "main_img": "../assets/img/seo.jpg",
+      "items": [
+        {
+          "title": "Essential SEO for Success",
+          "content": "SEO services are pivotal for enhancing online visibility and driving organic traffic. By implementing strategic optimization techniques and content enhancements, SEO services elevate website rankings in search engine results. Prioritizing relevance, authority, and user experience, SEO services pave the path for sustainable growth in the digital landscape."
+        },
+        {
+          "title": "Digital Marketing: Driving Growth",
+          "content": "Digital marketing serves as the cornerstone for digital growth, encompassing diverse strategies to promote businesses online. From targeted advertising to engaging content creation, digital marketing strategies drive brand awareness, lead generation, and customer loyalty. Adaptable to changing consumer behaviors, digital marketing empowers businesses to stay competitive in today's dynamic online realm."
+        },
+        {
+          "title": "Tailored SEO Strategies",
+          "content": "Tailored SEO strategies are instrumental in crafting online visibility and authority. Through comprehensive keyword research, on-page optimization, and link building, businesses improve search engine rankings and establish credibility within their niche. Ethical and sustainable SEO practices ensure long-term success and resilience in the evolving digital ecosystem."
+        },
+        {
+          "title": "Impactful Digital Marketing",
+          "content": "The impact of digital marketing is profound, driving online growth through targeted campaigns and audience engagement. By increasing brand awareness, generating leads, and fostering customer loyalty, digital marketing strategies propel businesses towards sustainable growth and market leadership in the digital age."
+        },
+        {
+          "title": "Maximizing Online Presence",
+          "content": "Integrating SEO and digital marketing maximizes online presence and amplifies business impact. By combining organic search visibility with targeted advertising and audience engagement, businesses create comprehensive online strategies that drive results. Strategic alignment and continuous optimization ensure optimal performance and growth in today's competitive digital landscape."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Keyword Research: Identifying relevant terms and phrases to optimize website content."
+        },
+        {
+          "li_descn": "On-Page Optimization: Optimizing individual web pages for search engine visibility."
+        },
+        {
+          "li_descn": "Off-Page Optimization: Building backlinks and improving website authority through external sources."
+        },
+        {
+          "li_descn": "Search Engine Marketing (SEM): Advertising on search engines to increase website visibility."
+        },
+        {
+          "li_descn": "Social Media Marketing (SMM): Leveraging social media platforms for brand promotion and engagement."
+        },
+        {
+          "li_descn": "Email Marketing: Sending targeted messages and promotions to subscribers via email."
+        }
+      ]
+    },
+    "internship": {
+      "topTitl": "Internship",
+      "imgUrl": "../assets/img/business-concept-career-development-text-words-typography-written-virtual-screen.jpg",
+      "heading": "",
+      "main_img": "../assets/img/intern.jpg",
+      "items": [
+        {
+          "title": "Internships: Unlocking Opportunities",
+          "content": "Internships offer students and recent graduates valuable real-world experience, enabling them to explore career paths, develop skills, and build networks. These opportunities provide insights into industry dynamics and help individuals discover their strengths and interests, laying a solid foundation for future success."
+        },
+        {
+          "title": "Navigating Careers: The Role of Internships",
+          "content": "Internships play a vital role in helping individuals navigate their career paths by exposing them to different industries, roles, and responsibilities. Through experiential learning, interns gain firsthand knowledge of various career options, enabling them to make informed decisions about their professional futures."
+        },
+        {
+          "title": "Internship Benefits: Building Skills for Success",
+          "content": "Internship programs offer numerous benefits for students and employers alike. Through hands-on projects and mentorship, interns develop essential skills such as communication, teamwork, and problem-solving. These experiences enhance their employability and contribute to their personal and professional growth while also helping organizations identify and nurture top talent."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Skill Development: Internships provide opportunities for hands-on learning, allowing interns to develop essential skills such as communication, teamwork, problem-solving, and adaptability."
+        },
+        {
+          "li_descn": "Resume Enhancement: Internship experiences enhance resumes by demonstrating practical skills, relevant experience, and professional accomplishments to potential employers."
+        },
+        {
+          "li_descn": "Confidence Building: Internships boost interns' confidence by allowing them to apply classroom knowledge in real-world scenarios and succeed in challenging work environments."
+        },
+        {
+          "li_descn": "Career Exploration: Internships offer insights into various industries, roles, and organizational cultures, helping individuals clarify their career goals and preferences."
+        }
+      ]
+    },
+    "mob-dev": {
+      "topTitl": "Mobile Development",
+      "imgUrl": "../assets/img/isometric-mobile-phone-displaying-analysis-data-graph-reflecting-concept-coding-testing-crossplatform-development-business.jpg",
+      "heading": "",
+      "main_img": "../assets/img/mob-dev.jpg",
+      "items": [
+        {
+          "title": "Mobile Development Overview",
+          "content": "Mobile development involves creating software applications for smartphones and tablets, covering design, coding, testing, and deployment. Developers use languages like Java for Android and Swift for iOS."
+        },
+        {
+          "title": "Technologies in Mobile Development",
+          "content": "Mobile development relies on native tools, cross-platform frameworks like React Native, and backend services for data management and authentication."
+        },
+        {
+          "title": "Challenges and Opportunities",
+          "content": "Mobile development faces challenges like device fragmentation and varying screen sizes, but offers opportunities for innovation and differentiation in the competitive market."
+        },
+        {
+          "title": "Future Trends in Mobile Development",
+          "content": "Emerging trends such as AR, VR, IoT, and AI are shaping the future of mobile development, offering new possibilities for immersive and intelligent mobile experiences."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Wide Reach: Access to a global audience of smartphone users."
+        },
+        {
+          "li_descn": "Enhanced Engagement: Interactive and personalized experiences."
+        },
+        {
+          "li_descn": "Brand Visibility: Reinforces brand identity and recognition."
+        },
+        {
+          "li_descn": "Customer Satisfaction: Streamlined interactions boost satisfaction."
+        },
+        {
+          "li_descn": "Competitive Edge: Stays ahead by offering innovative solutions."
+        },
+        {
+          "li_descn": "Revenue Opportunities: Multiple monetization channels available."
+        }
+      ]
+    },
+    "other-servics": {
+      "topTitl": "Other Services",
+      "imgUrl": "../assets/img/copyright-patent-concept-person-hand-using-laptop-computer-tablet-smartphone-with-virtual-screen-copyright-icon-trademark-creation-ownership-against-piracy-office.jpg",
+      "heading": "",
+      "main_img": "../assets/img/other.jpg",
+      "items": [
+        {
+          "title": "Understanding Additional Services",
+          "content": "Businesses often extend their offerings beyond core services to meet diverse customer needs and enhance value. These additional services cater to specific requirements, reinforcing customer satisfaction and loyalty."
+        },
+        {
+          "title": "The Value of Diversification",
+          "content": "Diversifying offerings with supplementary services is crucial for businesses to adapt to changing market dynamics and satisfy evolving customer demands. These services expand solutions, fostering long-term relationships and sustaining growth."
+        },
+        {
+          "title": "Enhancing Customer Experience",
+          "content": "Supplementary services elevate customer experience by offering added convenience, flexibility, and customization. Anticipating needs and providing tailored solutions builds trust, loyalty, and advocacy, driving repeat business."
+        },
+        {
+          "title": "Strategic Implementation of Services",
+          "content": "Offering additional services requires strategic alignment with customer preferences and brand identity. Optimizing service delivery processes and adapting to market feedback ensures sustainable growth and competitive advantage."
+        }
+      ],
+      "liData": [
+        {
+          "li_descn": "Enhanced Satisfaction: Meets diverse needs, enhancing customer satisfaction."
+        },
+        {
+          "li_descn": "Customer Loyalty: Builds stronger relationships, encouraging repeat business."
+        },
+        {
+          "li_descn": "Unique Value: Strengthens the value proposition, attracting more customers."
+        },
+        {
+          "li_descn": "Improved Brand Image: Enhances brand reputation and perception."
+        }
+      ]
+    }
+  },
+  "logo_img": [
+    {
+      "logoSrc": "../assets/img/vypar_logo.png",
+      "logoAlt": "Vyparlink",
+      "urlLink": "https://vyaparkranti.com/"
+    },
+    {
+      "logoSrc": "../assets/img/logo-minimal-2.png",
+      "logoAlt": "luminan",
+      "urlLink": "https://luminancemedicare.com/"
+    },
+    {
+      "logoSrc": "../assets/img/wom_logo.png",
+      "logoAlt": "womsolutions",
+      "urlLink": "https://www.womsolutions.in/"
+    }
+  ]
+}

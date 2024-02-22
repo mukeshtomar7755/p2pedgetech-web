@@ -1,0 +1,56 @@
+[
+    { 
+      "title": "IT Consultations",
+      "description": "Expert advice on IT-related matters.",
+      "imageUrl": "../../assets/img/servics/it-const.png", 
+      "imageAlt": "IT Consultations Image"
+    },
+    { 
+      "title": "Website Development",
+      "description": "Building professional and responsive websites.",
+      "imageUrl": "../../assets/img/servics/web-img.png", 
+      "imageAlt": "Website Development Image"
+    },
+    { 
+      "title": "UI/UX Design",
+      "description": "Crafting intuitive and visually appealing user interfaces.",
+      "imageUrl": "../../assets/img/servics/uiux-img.png", 
+      "imageAlt": "UI/UX Design Image"
+    },
+    { 
+      "title": "Database",
+      "description": "Database design and management solutions.",
+      "imageUrl": "../../assets/img/servics/db-img.png", 
+      "imageAlt": "Database Image"
+    },
+    { 
+      "title": "CMS",
+      "description": "Content Management System implementation and customization.",
+      "imageUrl": "../../assets/img/servics/cms-img.png",  
+      "imageAlt": "CMS Image"
+    },
+    { 
+      "title": "Programming Languages",
+      "description": "Expertise in various programming languages.",
+      "imageUrl": "../../assets/img/servics/pl-img.png",  
+      "imageAlt": "Programming Languages Image"
+    },
+    { 
+      "title": "Operating System",
+      "description": "Consultation and support for different operating systems.",
+      "imageUrl": "../../assets/img/servics/os-img.png",  
+      "imageAlt": "Operating System Image"
+    },
+    { 
+      "title": "Mobile Development",
+      "description": "Creating mobile applications for iOS and Android.",
+      "imageUrl": "../../assets/img/servics/mob-img.png",  
+      "imageAlt": "Mobile Development Image"
+    },
+    { 
+      "title": "Other Services",
+      "description": "Additional services tailored to your needs.",
+      "imageUrl": "../../assets/img/servics/other.png",  
+      "imageAlt": "Other Services Image"
+    }
+  ]
